@@ -70,7 +70,8 @@ html, body {
 }
 
 .center {
-    width: 800px;
+    width: 85%;
+	min-width: 300px;
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(186, 161, 199, 0.75); /*this uses opacity of 75% for the background color*/
@@ -79,6 +80,7 @@ html, body {
 
    
 #logo {
+	width: 60%;
     margin-bottom: 25px;
 	margin-top: 25px;
 	text-align: center;
